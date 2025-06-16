@@ -31,7 +31,7 @@
 .kart {
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 17px;
 }
 
 .card {
